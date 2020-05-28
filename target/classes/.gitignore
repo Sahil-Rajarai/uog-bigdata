@@ -1,0 +1,13 @@
+/CompositeValue.class
+/MapRecords.class
+/MyIndexer.class
+/MyInputFormat.class
+/MyMapper$Counters.class
+/MyMapper.class
+/MyPartitioner.class
+/MyRecordReader.class
+/MyReducer.class
+/Sort.class
+/mapreduce/
+/spark/
+/utils/
